@@ -57,3 +57,18 @@ Reduce "Time-to-Level" to under [X] seconds. The mechanical architecture must pr
 Implement an intelligent footprint design that distributes localized pressure evenly. The goal is to prevent sinkage in soft media and eliminate the asymmetric stress concentrations that lead to premature joint failure.
 ### 2.5 Hardware Agnostic Interface
 Develop a standardized mounting system that allows the ATSP to act as a universal base for various sensors, communication arrays, or robotic units, regardless of their specific center-of-gravity profiles.
+
+## 3. Repository Structure
+### 3.1. About Progess
+This repository documents the ongoing research, development, and iteration process of the ATSP project. All major system revisions, mechanical concepts, calculations, prototype developments, and design changes are organized throughout the repository’s sub-categories. Each subsystem contains its own development history, including experimental concepts, failures, revisions, and engineering considerations explored during development. The project is actively iterated upon, with the repository serving as a living technical archive for the platform’s progression.
+### 3.2. About Data
+Project data, calculations, testing results, material evaluations, and engineering notes are distributed across the repository’s dedicated subsystem categories and supporting documentation.
+
+As the project evolves, documentation and datasets will continuously change to reflect:
+- new design iterations
+- revised engineering assumptions
+- prototype validation results
+- terrain interaction testing
+- structural and mechanical evaluations
+
+The purpose of this data structure is to maintain traceable engineering development and provide a clear representation of how the MVP performs under different operating and terrain conditions.
