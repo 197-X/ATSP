@@ -1,5 +1,5 @@
 # ATSP
-Adaptive Terrain Stabilization Platform (ATSP) is a deployable terrain-stabilization system designed to provide a stable operational surface for remote-operated and autonomous systems in uneven or unstable environments.
+Adaptive Terrain Stabilization Platform (ATSP) is a deployable terrain-stabilization system designed to provide a stable operational surface for remote-operated and autonomous systems in uneven or unstable environments. [Developed from absolute scratch without previous knowledge (CAD, Architecture, and Repository) in a focused 23-day sprint.
 
 ## Overview
 ### 1. Core Problems
@@ -47,7 +47,7 @@ Achieve a true horizontal operational surface (±0.5°) across multi-axial slope
 - ### 2.2 Dynamic Load Mitigation
 Minimize structural resonance and oscillation during payload operation. The platform must maintain equilibrium during active weight shifts, such as robotic arm articulation or high-impulse UAV landings.
 - ### 2.3 Rapid Field Deployment
-Reduce "Time-to-Level" to under [X] seconds. The mechanical architecture must prioritize a high strength-to-weight ratio to allow for deployment via drone or person-portable kits.
+Reduce "Time-to-Level" to under 0.5 seconds. The mechanical architecture must prioritize a high strength-to-weight ratio to allow for deployment via drone or person-portable kits.
 - ### 2.4 Structural Longevity & Load Distribution
 Implement an intelligent footprint design that distributes localized pressure evenly. The goal is to prevent sinkage in soft media and eliminate the asymmetric stress concentrations that lead to premature joint failure.
 - ### 2.5 Hardware Agnostic Interface
