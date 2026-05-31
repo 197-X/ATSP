@@ -115,7 +115,7 @@ The manufacturing strategy utilizes a hybrid approach tailored to different stag
 The prototyping and manufacturing budget covers three distinct prototypes. To account for the first two versions being entirely 3D-printed, all raw material filament quantities have been doubled from the initial baseline. A 20% contingency buffer is applied across the entire baseline subtotal to mitigate hardware risks, failures, or re-prints.
 - 1. Equipment: A X2D AMS Combo + Accesories (€900-€1000) / JBC CD-2QWLF Digitale Lötstation Edition+ + Accesories (~€700) [Total €1,700.00]
 - 2. Materials: PETG 30kg * €13 (€390) / ASA 1kg * €25 (€25) / PET-CF 5kg * ~€90 (~€500) / 85A TPU 2kg * €48 (€96) / [Metal components will be off the shelf] [Total €2,022.00 / With 20% = €2,426.40]
-- 3. Electronics: [To be researched] 
+- 3. Electronics: [To be researched] (The approximate cost of components is expected to range between $4k and $8k, depending on the scope of the prototypes aswell as the number of prototypes).
 ## 7. Market
 ### 7.1 Market Scope
 The market scope for the product is global, targeting the mining, construction, military, and civilian sectors. It focuses on autonomous resupply operations in critical, high-risk environments requiring the rapid transportation of heavy payloads.
